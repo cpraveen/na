@@ -1,0 +1,4 @@
+a.out
+.ipynb_checkpoints
+*.o
+*.pyc
