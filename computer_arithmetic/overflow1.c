@@ -9,9 +9,9 @@ int main()
 
    z = sqrt(x*x + y*y);
 
-   printf("%e\n", z);
+   printf("sqrt(x*x+y*y)           = %e\n", z);
 
    alpha = y/x;
    z = fabs(x) * sqrt(1.0 + alpha*alpha);
-   printf("%e\n", z);
+   printf("|a|*sqrt(1+(y/x)*(y/x)) = %e\n", z);
 }
