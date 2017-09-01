@@ -16,3 +16,14 @@
 ## Root finding
 
 ## Interpolation and approximation
+
+1. [Condition number of Vandermonde matrix](http://nbviewer.ipython.org/github/cpraveen/blob/master/approximation/vandermonde.ipynb)
+1. [Using polyfit and polyval to construct polynomial approximation](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/polyfit.ipynb)
+1. [Interpolate cos(x) on uniform points](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/interp_cos.ipynb)
+1. [Runge phenomenon](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/runge1.ipynb)
+1. [Behavior of function in polynomial interpolation error](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/omega.ipynb)
+1. [Roots of Chebyshev polynomial](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/cheb_roots.ipynb)
+1. [Chebyshev points of second kind](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/chebpts.ipynb)
+1. [Barycentric Lagrange interpolation: general point distribution](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/barycentric_lagrange.ipynb)
+1. [Barycentric Lagrange interpolation: Chebyshev points](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/barychebint.ipynb)
+
