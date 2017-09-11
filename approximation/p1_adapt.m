@@ -1,9 +1,10 @@
+close all
 clear all
 
 xmin = 0;
 xmax = 1;
 fun = @(x) exp(-100*(x-0.5).^2);
-fun = @(x) exp(-100*(x-0.5).^2) .* sin(4*pi*x);
+%fun = @(x) exp(-100*(x-0.5).^2) .* sin(4*pi*x);
 
 N = 10; % number of initial points
 x = linspace(xmin,xmax,N);
@@ -18,7 +19,7 @@ pause
 
 err = 1e-2;   % error tolerance
 nadapt = 50;  % maximum number of refinements
-mode = 0;     % 0=uniform, 1=adaptive
+mode = 1;     % 0=uniform, 1=adaptive
 
 for n=1:nadapt
    h = x(2:end) - x(1:end-1);
