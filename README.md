@@ -31,3 +31,4 @@
 1. [Minimax approximation of abs(x)](https://github.com/cpraveen/na/blob/master/approximation/minimax_abs.m)
 1. Adaptive piecewise linear interpolation [Matlab](https://github.com/cpraveen/na/blob/master/approximation/p1_adapt.m), [Python](https://github.com/cpraveen/na/blob/master/approximation/p1_adapt.py)
 1. [Cubic spline interpolation](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/cubic_spline.ipynb)
+1. [Gibbs oscillations in polynomial interpolation](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/gibbs_polyint.ipynb)
