@@ -32,3 +32,4 @@
 1. Adaptive piecewise linear interpolation [Matlab](https://github.com/cpraveen/na/blob/master/approximation/p1_adapt.m), [Python](https://github.com/cpraveen/na/blob/master/approximation/p1_adapt.py)
 1. [Cubic spline interpolation](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/cubic_spline.ipynb)
 1. [Gibbs oscillations in polynomial interpolation](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/gibbs_polyint.ipynb)
+1.  Trigonometric interpolation: [Matlab](http://github.com/cpraveen/na/blob/master/approximation/trig_interp.m), [Python](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/trig_interp.ipynb)
