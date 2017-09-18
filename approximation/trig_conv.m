@@ -1,3 +1,4 @@
+close all; clear all
 %
 % Compare trignometric and polynomial interpolation of a periodic function
 %
