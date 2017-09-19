@@ -10,7 +10,7 @@ ng = 500;
 xg = linspace(0,2*pi,ng);
 fe = fun(xg);
 
-N = [8 16 32 64 128 256];
+N = 2.^([3 4 5 6 7 8]);
 data = [];
 for n=N
    h = 2*pi/n; 
@@ -28,6 +28,7 @@ for n=N
    figure(1)
    plot(x,v,'o',xg,fg,'-',xg,fe,'--')
    legend('Data','Trigonometric','Exact')
+   title(strcat('N = ',int2str(n)))
    data = [data; n, err_inf, err_l2];
    pause
 end
