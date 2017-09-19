@@ -18,5 +18,6 @@ ng = 100;
 xg = linspace(0,2*pi,ng);
 fg = exp(1i*xg'*k) * v_hat / N;
 fg = real(fg);
-plot(x,v,'o',xg,fg,'-')
+plot(x,v,'o',xg,fg,'-',xg,fun(xg),'--')
+legend('Data','DFT','Exact')
 grid on
