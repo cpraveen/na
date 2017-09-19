@@ -10,7 +10,7 @@ ng = 500;
 xg = linspace(0,2*pi,ng);
 fe = fun(xg);
 
-N = [6 12 24 48 64 128];
+N = [8 16 32 64 128 256];
 data = [];
 for n=N
    h = 2*pi/n; 
@@ -37,6 +37,9 @@ loglog(data(:,1), data(:,2), 'o-', data(:,1), data(:,3),'*-')
 legend('Max norm','L_2 norm')
 xlabel('log(N)')
 ylabel('log(error)')
+
+rate_inf = log(data(1:end-1,2)./data(2:end,2))/log(2)
+rate_l2 = log(data(1:end-1,3)./data(2:end,3))/log(2)
 
 figure(3)
 semilogy(data(:,1), data(:,2), 'o-', data(:,1), data(:,3),'*-')
