@@ -33,3 +33,9 @@
 1. [Cubic spline interpolation](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/cubic_spline.ipynb)
 1. [Gibbs oscillations in polynomial interpolation](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/gibbs_polyint.ipynb)
 1.  Trigonometric interpolation: [Matlab](http://github.com/cpraveen/na/blob/master/approximation/trig_interp.m), [Python](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/approximation/trig_interp.ipynb)
+
+## Numerical integration
+
+1. [Composite trapezoidal rule](http://github.com/cpraveen/na/blob/master/integration/trapz1.ipynb)
+1. [Composite trapezoidal rule using Scipy](http://github.com/cpraveen/na/blob/master/integration/trapz2.ipynb)
+1. [Gauss quadrature using Scipy](http://github.com/cpraveen/na/blob/master/integration/gauss1.ipynb)
