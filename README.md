@@ -41,3 +41,10 @@
 1. [Gauss quadrature using Scipy](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/gauss1.ipynb)
 1. [Gauss quadrature of sqrt(x)](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/sing1.ipynb)
 1. [Gauss quadrature of sqrt(x-0.5)](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/sing2.ipynb)
+
+## Solving ODE
+
+1. [Forward Euler](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/euler0.ipynb)
+1. [Forward Euler: Error convergence](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/euler1.ipynb)
+1. [Forward Euler: Stability](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/euler2.ipynb)
+1. [Trapezoidal method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/trapezoid1.ipynb)
