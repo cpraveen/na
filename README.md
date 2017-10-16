@@ -46,6 +46,11 @@
 
 1. [Forward Euler](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/euler0.ipynb)
 1. [Forward Euler: Error convergence](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/euler1.ipynb)
-1. [Forward Euler: Stability](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/euler2.ipynb)
 1. [Trapezoidal method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/trapezoid1.ipynb)
 1. [Instability of multi-step method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/multistep_instability.ipynb)
+1. [Forward Euler: Stability](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/euler2.ipynb)
+1. [Absolute stability domains of AB, AM, BDF schemes](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/ode_stability.ipynb)
+1. [Stiff ODE](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/stiff1.ipynb)
+1. [ODE with periodic solution, quadratic invariant](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/periodic1.ipynb)
+1. [Non-linear BVP using shooting method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/shooting.ipynb)
+1. [Non-linear BVP using finite difference method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/finite_difference.ipynb)
