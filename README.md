@@ -48,3 +48,4 @@
 1. [Forward Euler: Error convergence](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/euler1.ipynb)
 1. [Forward Euler: Stability](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/euler2.ipynb)
 1. [Trapezoidal method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/trapezoid1.ipynb)
+1. [Instability of multi-step method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/multistep_instability.ipynb)
