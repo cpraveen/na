@@ -57,3 +57,12 @@
 1. [ODE with periodic solution, quadratic invariant](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/periodic1.ipynb)
 1. [Non-linear BVP using shooting method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/shooting.ipynb)
 1. [Non-linear BVP using finite difference method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/ode/finite_difference.ipynb)
+
+## Numerical Linear Algebra
+
+1. [LU decomposition](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/lu.ipynb)
+1. [LU decomposition with row pivoting](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/plu.ipynb)
+1. [Classical iterative methods for 1-D BVP: Gauss-Jacobi, Gauss-Seidel, SOR](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/jacobi_seidel_sor.ipynb)
+1. [Conjugate gradient method for 1-D BVP](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/cg.ipynb)
+1. [Classical iterative methods for 2-D BVP: Gauss-Jacobi, Gauss-Seidel, SOR](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/poisson2d_iter.ipynb)
+1. [Conjugate gradient method for 1-D BVP](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/poisson2d_cg.ipynb)
