@@ -3,7 +3,7 @@
 ## Introduction
 
 1. [Sensitivity of polynomial roots](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/introduction/polyroot1.ipynb)
-1. [Unstable iterations](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/introduction/unstable_iteration.ipynb)
+1. [Unstable iterations](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/introduction/unstable_iteration.ipynb), [C version](http://github.com/cpraveen/na/blob/master/introduction/unstable_iter.c)
 1. [Solving ODE, stable and unstable iterations](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/introduction/ode.ipynb)
 
 ## Computer arithmetic
