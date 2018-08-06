@@ -1,11 +1,12 @@
 #include<stdio.h>
 #include<math.h>
 
+#define REAL float
+
 int main()
 {
-   float x=1.0e-8;
-   float y, z;
-
+   REAL x = 1.0e-8;
+   REAL y, z;
 
    y = 1.0 - cos(x);
    z = 2.0*pow(sin(x/2.0), 2);

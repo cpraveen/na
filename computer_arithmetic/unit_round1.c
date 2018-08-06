@@ -8,6 +8,7 @@ int main()
    float delta1=pow(2.0,-24);
    float x1, x2;
 
+   printf("delta         = %50.40e\n", delta);
    printf("one           = %50.40e\n", one);
    x1 = one+delta;
    printf("one + delta   = %50.40e\n", x1);

@@ -1,10 +1,12 @@
 #include<stdio.h>
 #include<math.h>
 
+#define REAL float
+
 int main()
 {
-   float one   = 1.0;
-   float delta = 1.0;
+   REAL one   = 1.0;
+   REAL delta = 1.0;
 
    while(one + delta > one)
       delta /= 2;
