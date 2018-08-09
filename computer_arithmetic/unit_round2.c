@@ -7,9 +7,14 @@ int main()
 {
    REAL one   = 1.0;
    REAL delta = 1.0;
+   REAL x;
 
-   while(one + delta > one)
+   x = one + delta;
+   while(x > one)
+   {
       delta /= 2;
+      x = one + delta;
+   }
 
-   printf("Unit round = %20.14e\n", 2*delta);
+   printf("Unit round = %20.14e\n", delta);
 }
