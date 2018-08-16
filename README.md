@@ -20,7 +20,7 @@
 ## Root finding
 
 1. [Bisection method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/bisect.ipynb)
-1. [Bisection method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/bisect2.ipynb)
+1. [Bisection method: implemented as a function](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/bisect2.ipynb)
 1. [Newton method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton1.ipynb)
 1. [Newton method: slow convergence](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton_slow.ipynb)
 1. [Newton method: double root](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton2.ipynb)
