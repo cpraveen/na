@@ -22,14 +22,15 @@
 1. [Bisection method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/bisect.ipynb)
 1. [Bisection method: implemented as a function](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/bisect2.ipynb)
 1. [Newton method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton1.ipynb)
-1. [Newton method: slow convergence](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton_slow.ipynb)
-1. [Newton method: double root](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton2.ipynb)
+1. [Newton method: square root](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton_square_root.ipynb)
+1. [Newton method: reciprocal, slow convergence](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton_slow.ipynb)
 1. [Newton method: complex root](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/complex_newton.ipynb)
 1. [Newton method for system of equations](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton3.ipynb)
 1. [Secant method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/secant1.ipynb)
 1. [Finite difference approximation](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/finite_difference.ipynb)
 1. [Complex finite difference approximation](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/complex_derivative.ipynb)
 1. [Fixed point iterations](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/fp1.ipynb)
+1. [Newton method: double root](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton2.ipynb)
 
 ## Interpolation and approximation
 
