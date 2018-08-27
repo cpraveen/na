@@ -31,6 +31,7 @@
 1. [Complex finite difference approximation](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/complex_derivative.ipynb)
 1. [Fixed point iterations](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/fp1.ipynb)
 1. [Newton method: double root](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton2.ipynb)
+1. [Root finding by homotopy method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/root_homotopy.ipynb)
 
 ## Interpolation and approximation
 
