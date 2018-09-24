@@ -3,7 +3,7 @@ x = chebfun('x'); f = abs(x);
 for n = 2:2:4
   figure()
   subplot(1,2,1), hold off, plot(f,'k','LineWidth',2), grid on
-  [p,err] = remez(f,n); hold on, plot(p,'r','LineWidth',2), axis([-1 1 -.2 1.2])
+  [p,err] = minimax(f,n);hold on,plot(p,'r','LineWidth',2),axis([-1 1 -.2 1.2])
   FS = 'fontsize';
   title(['Function and best approx, n = ' int2str(n)],FS,9)
   subplot(1,2,2), hold off, plot(f-p,'LineWidth',2), grid on, hold on
