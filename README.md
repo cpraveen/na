@@ -56,6 +56,7 @@
 ## Numerical integration
 
 1. [Composite trapezoidal rule](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/trapz1.ipynb)
+1. [Composite corrected trapezoidal rule](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/ctrapz.ipynb)
 1. [Composite trapezoidal rule using Scipy](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/trapz2.ipynb)
 1. [Gauss quadrature using Scipy](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/gauss1.ipynb)
 1. [Gauss quadrature of sqrt(x)](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/sing1.ipynb)
