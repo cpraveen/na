@@ -62,8 +62,9 @@
 1. [Trapezoid and Simpson rule](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/trapz_simpson.ipynb)
 1. [Trapezoid rule when f'' is not finite](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/trapz_singular_derivative.ipynb)
 1. [Gauss quadrature using Scipy](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/gauss1.ipynb)
-1. [Gauss quadrature of sqrt(x)](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/sing1.ipynb)
+1. [Trapezoidal vs Gauss quadrature of sqrt(x)](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/sing1.ipynb)
 1. [Gauss quadrature of sqrt(x-0.5)](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/sing2.ipynb)
+1. [Trapezoidal vs Gauss quadrature for periodic function](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/periodic1.ipynb)
 
 ## Solving ODE
 
