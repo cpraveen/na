@@ -65,6 +65,7 @@
 1. [Trapezoidal vs Gauss quadrature of sqrt(x)](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/sing1.ipynb)
 1. [Gauss quadrature of sqrt(x-0.5)](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/sing2.ipynb)
 1. [Trapezoidal vs Gauss quadrature for periodic function](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/integration/periodic1.ipynb)
+1. [Gauss-Laguerre quadrature](https://github.com/cpraveen/na/blob/master/integration/laguerre_gass.py)
 1. [Adaptive Simpson quadrature](https://github.com/cpraveen/na/blob/master/integration/adaptive_simpson.py)
 
 ## Solving ODE
