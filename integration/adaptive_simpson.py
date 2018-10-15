@@ -1,4 +1,5 @@
 import numpy as np
+from scipy.integrate import simps
 
 # Apply Simpson using points {a, (a+b)/2, c}
 def simpson1(f,a,b):
@@ -25,4 +26,14 @@ a, b = 0.0, 1.0
 eps = 0.005
 I  = simpson(f,a,b,eps)
 Ie = 2.0/3.0
-print('Integral,err,eps =',I,np.abs(I-Ie),eps)
+print('Integral,err,eps = %16.6e %16.6e %16.6e'%(I,np.abs(I-Ie),eps))
+
+# Simpson rule using uniform sample points
+# Choose n to be even only
+n, N = 2, 20
+for i in range(N):
+    x = np.linspace(a, b, n+1)
+    y = f(x)
+    I = simps(y, x)
+    print('%5d %16.6e %16.6e' % (int(n/2),(b-a)/n,np.abs(I-Ie)))
+    n = n + 4
