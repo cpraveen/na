@@ -90,6 +90,6 @@
 1. [LU decomposition with row pivoting](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/plu.ipynb)
 1. [Thomas tri-diagonal method for 1-d BVP](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/thomas.ipynb)
 1. [Classical iterative methods for 1-D BVP: Gauss-Jacobi, Gauss-Seidel, SOR](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/jacobi_seidel_sor.ipynb)
-1. [Conjugate gradient method for 1-D BVP](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/cg.ipynb)
 1. [Classical iterative methods for 2-D BVP: Gauss-Jacobi, Gauss-Seidel, SOR](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/poisson2d_iter.ipynb)
+1. [Conjugate gradient method for 1-D BVP](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/cg.ipynb)
 1. [Conjugate gradient method for 2-D BVP](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/poisson2d_cg.ipynb)
