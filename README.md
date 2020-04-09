@@ -94,3 +94,7 @@
 1. [QR algorithm](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/qr.ipynb)
 1. [Conjugate gradient method for 1-D BVP](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/cg.ipynb)
 1. [Conjugate gradient method for 2-D BVP](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/poisson2d_cg.ipynb)
+
+## From the internet
+
+1. [Understanding the FFT algorithm (with Python code)](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
