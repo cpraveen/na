@@ -1,5 +1,9 @@
 # Codes for Numerical Analysis course
 
+You can run the notebooks in the browser [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cpraveen/na/HEAD)
+
+The following links only allow you to view the notebooks.
+
 ## Introduction
 
 1. [Sensitivity of polynomial roots](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/introduction/polyroot1.ipynb)
