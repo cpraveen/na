@@ -2,6 +2,10 @@
 
 You can run the notebooks in the browser [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cpraveen/na/HEAD)
 
+You can see a listing of all the notebooks on colab via this url
+
+https://colab.research.google.com/github/cpraveen/na
+
 The following links only allow you to view the notebooks.
 
 ## Introduction
