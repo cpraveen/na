@@ -21,7 +21,7 @@ The following links only allow you to view the notebooks.
 1. [Demonstration of unit round](https://github.com/cpraveen/na/blob/master/computer_arithmetic/unit_round1.c)
 1. [Example of overflow error](https://github.com/cpraveen/na/blob/master/computer_arithmetic/overflow1.c)
 1. [Example of overflow error and how to avoid it](https://github.com/cpraveen/na/blob/master/computer_arithmetic/overflow2.c)
-1. [Errors due to subtracting nearly equal quantities](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/computer_arithmetic/subtract1.ipynb), [C version](https://github.com/cpraveen/na/blob/master/computer_arithmetic/subtract1.c)
+1. [Errors due to subtracting nearly equal quantities](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/computer_arithmetic/subtract1.ipynb), [C version](https://github.com/cpraveen/na/blob/master/computer_arithmetic/subtract1.c), [C++ version](https://github.com/cpraveen/na/blob/master/computer_arithmetic/subtract1.cc)
 1. [Errors due to subtracting nearly equal quantities](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/computer_arithmetic/subtract2.ipynb)
 1. [Precision: evaluating polynomial](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/computer_arithmetic/precision1.ipynb)
 
