@@ -30,6 +30,7 @@ The following links only allow you to view the notebooks.
 1. [Bisection method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/bisect.ipynb)
 1. [Bisection method: implemented as a function](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/bisect2.ipynb)
 1. [Newton method](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton1.ipynb)
+1. [Newton method: abs and rel tolerance](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton1b.ipynb)
 1. [Newton method: square root](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton_square_root.ipynb)
 1. [Newton method: reciprocal, slow convergence](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/newton_slow.ipynb)
 1. [Newton method: complex root](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/root_finding/complex_newton.ipynb)
