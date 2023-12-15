@@ -104,6 +104,12 @@ The following links only allow you to view the notebooks.
 1. [Conjugate gradient method for 1-D BVP](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/cg.ipynb)
 1. [Conjugate gradient method for 2-D BVP](http://nbviewer.ipython.org/github/cpraveen/na/blob/master/la/poisson2d_cg.ipynb)
 
+## Numerical Linear Algebra
+
+Codes prepared for a course on numerical Linear Algebra can be seen here
+
+[github.com/cpraveen/nla](https://github.com/cpraveen/nla)
+
 ## From the internet
 
 1. [Understanding the FFT algorithm (with Python code)](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
