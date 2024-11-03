@@ -112,5 +112,6 @@ Codes prepared for a course on numerical Linear Algebra can be seen here
 
 ## From the internet
 
+1. [Classical Numerical Analysis](https://github.com/stevenmwise/ClassicalNumericalAnalysis)
 1. [Understanding the FFT algorithm (with Python code)](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 1. [Brunton: Fourier Analysis](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
