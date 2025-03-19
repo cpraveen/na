@@ -1,5 +1,7 @@
 # Codes for Numerical Analysis course
 
+> These codes are not being updated. The new and updated versions are found in [github.com/cpraveen/numa](https://github.com/cpraveen/numa) and as html version in [cpraveen.github.io/numa](https://cpraveen.github.io/numa).
+
 You can run the notebooks in the browser [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cpraveen/na/HEAD)
 
 You can see a listing of all the notebooks on colab via this url
